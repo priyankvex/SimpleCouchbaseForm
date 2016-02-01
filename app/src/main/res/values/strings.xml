@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CouchBaseSimpleSample</string>
+    <string name="action_settings">Settings</string>
+</resources>
